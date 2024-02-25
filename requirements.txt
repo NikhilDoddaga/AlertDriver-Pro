@@ -1,3 +1,0 @@
-mapping_cli
-opencv-python
-omegaconf
