@@ -1,0 +1,14 @@
+mapping_cli
+opencv-python
+omegaconf
+imutils==0.5.4
+dlib==19.22.0
+numpy==1.21.0
+opencv-python==4.5.3.56
+twilio==6.55.0
+mediapipe==0.8.7
+twilio==6.55.0
+opencv-python==4.5.3.56
+twilio==6.55.0
+opencv-python==4.5.3.56
+numpy==1.21.0
